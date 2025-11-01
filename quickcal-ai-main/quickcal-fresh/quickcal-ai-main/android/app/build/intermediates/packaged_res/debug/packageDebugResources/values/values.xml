@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <string name="app_name">quickcal-ai</string>
+    <string name="custom_url_scheme">app.lovable.a5682b0932fc4be7bff6f2a069dc7ac7</string>
+    <string name="gcm_defaultSenderId" translatable="false">808740994187</string>
+    <string name="google_api_key" translatable="false">AIzaSyDi2zpTSw_N5W2f76MqhnHQfPD7eNGUkkk</string>
+    <string name="google_app_id" translatable="false">1:808740994187:android:36c8bfabfeda492504688e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDi2zpTSw_N5W2f76MqhnHQfPD7eNGUkkk</string>
+    <string name="google_storage_bucket" translatable="false">ai-scan-d0360.firebasestorage.app</string>
+    <string name="package_name">app.lovable.a5682b0932fc4be7bff6f2a069dc7ac7</string>
+    <string name="project_id" translatable="false">ai-scan-d0360</string>
+    <string name="title_activity_main">quickcal-ai</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:background">@null</item>
+    </style>
+    <style name="AppTheme.NoActionBarLaunch" parent="Theme.SplashScreen">
+        <item name="android:background">@drawable/splash</item>
+    </style>
+</resources>
